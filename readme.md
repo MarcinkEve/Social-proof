@@ -1,4 +1,4 @@
-# 5.-social-proof-section
+# Social proof section
 
 This task is taken from https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA
 
