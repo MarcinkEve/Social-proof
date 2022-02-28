@@ -1,7 +1,9 @@
 body {
     font-family: "Spartan", sans-serif;
   }
-  
+  .container{
+margin-top: 5rem;
+  }
   .first-part-section,
   .second-part-section {
     width: 80vw;
